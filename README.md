@@ -1,10 +1,12 @@
-# Online Shop Website 
+# Online Shop Website
 
 Ce projet a ete realiser par:
 
 Abderrahmane Ellaouzi et Soulaimane Hilal du groupe G4.
 
-ONLINE SHOP est Un site E-Commerce qui permet de réaliser des ventes en ligne des jeux videos.Comme un magasin physique, le site E-Commerce est une vitrine utilisée par les commerçants pour exposer leurs produits et leurs services pour toucher un public ciblé qui pourrait les acheter.
+ONLINE SHOP est Un site E-Commerce qui permet de réaliser des ventes en ligne des jeux videos. Comme un magasin physique, le site E-Commerce est une vitrine utilisée par les commerçants pour exposer leurs produits et leurs services pour toucher un public ciblé qui pourrait les acheter.
+
+
 
 # Login: 
 ![1 ](https://user-images.githubusercontent.com/107000262/220225273-f15ca5bb-a1d3-43fb-a33d-c60ec1617055.png)
@@ -34,7 +36,7 @@ ONLINE SHOP est Un site E-Commerce qui permet de réaliser des ventes en ligne d
 
 
 # Conclusion:
-La période de réalisation d’un mois ne peut malheureusement pas suffire pour pouvoir cerner toutes les facettes de la programmation d’application ASP dot net , mais l’expérience était un grand enrichissement en matière de savoir-faire et nous a été très bénéfique.
+La période de réalisation d’un mois ne peut malheureusement pas suffire pour pouvoir cerner toutes les facettes de la programmation d’application ASP dot net ,mais l’expérience était un grand enrichissement en matière de savoir-faire et nous a été très bénéfique.
 
 Nous vous remercions Monsieur Bouziri Adil pour vos efforts durant ce semaistre.
 
