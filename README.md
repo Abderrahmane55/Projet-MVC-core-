@@ -1,6 +1,6 @@
 # Online Shop Website 
 
-Ce projet a ete realiser par: Abderrahmane Ellaouzi et Soulaimane Hilal du groupe G4.
+Ce projet a ete realiser par: Abderrahmane Ellaouzi et Soulaimane Hilal du groupe G4. Nous re
 
 ONLINE SHOP est Un site E-Commerce qui permet de réaliser des ventes en ligne des jeux videos.Comme un magasin physique, le site E-Commerce est une vitrine utilisée par les commerçants pour exposer leurs produits et leurs services pour toucher un public ciblé qui pourrait les acheter.
 
@@ -29,6 +29,8 @@ ONLINE SHOP est Un site E-Commerce qui permet de réaliser des ventes en ligne d
 
 # Recu des commandes:
 ![panier 2 ](https://user-images.githubusercontent.com/107000262/220227338-1ccab2c8-0f8c-4069-95fc-417a5225fb56.png)
+
+
 
 
 
