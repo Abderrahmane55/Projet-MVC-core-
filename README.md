@@ -15,6 +15,10 @@ ONLINE SHOP est Un site E-Commerce qui permet de réaliser des ventes en ligne d
 ![4](https://user-images.githubusercontent.com/107000262/220226614-e3fffe83-97ba-47b2-b79a-08cba9a445de.png)
 
 
+# Page d acceuil :
+![liste de produits ](https://user-images.githubusercontent.com/107000262/220226896-d361ad19-f769-4ca5-83dd-7541d75fa8b3.png)
+
+
 
 
 
