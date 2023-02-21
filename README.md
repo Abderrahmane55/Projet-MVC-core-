@@ -33,7 +33,8 @@ ONLINE SHOP est Un site E-Commerce qui permet de réaliser des ventes en ligne d
 
 # Conclusion:
 La période de réalisation d’un mois ne peut malheureusement pas suffire pour pouvoir cerner toutes les facettes de la programmation d’application ASP dot net , mais l’expérience était un grand enrichissement en matière de savoir-faire et nous a été très bénéfique.
-Nous vous remercions Monsieur Bouziri Adil pour vos efforts durant le semaistre.
+
+Nous vous remercions Monsieur Bouziri Adil pour vos efforts durant ce semaistre.
 
 
 
